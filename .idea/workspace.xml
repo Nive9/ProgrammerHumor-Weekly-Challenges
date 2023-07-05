@@ -38,8 +38,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="FizzBuzzKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzKt" />
       <module name="ProgrammerHumor-Weekly-Challenges" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +47,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.FizzBuzzKt" />
       </list>
     </recent_temporary>
   </component>
