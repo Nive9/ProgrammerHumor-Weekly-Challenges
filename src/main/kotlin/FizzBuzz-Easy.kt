@@ -1,3 +1,5 @@
+// Run in browser/ Playground
+// https://pl.kotl.in/zRNddM1tY
 
 fun fizzBuzz(r:IntProgression) {
     for (i in r) {

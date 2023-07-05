@@ -1,3 +1,5 @@
+// Run in browser/ Playground
+// https://pl.kotl.in/QZzcWq1Wb
 
 fun fizzBuzzIntermediate(q:IntProgression) {
     val fizz = "Fizz"
