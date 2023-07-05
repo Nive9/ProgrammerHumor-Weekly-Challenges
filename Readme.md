@@ -1,7 +1,18 @@
-# ProgrammerHumor Weekly Challenges 2023 (written in Kotlin)
-**To execute code: [Kotlin Playground](https://play.kotlinlang.org/)**
+# ProgrammerHumor Weekly Challenges 2023 
+* **written in Kotlin**
+* **To execute code: [Kotlin Playground](https://play.kotlinlang.org/)**
 ## First Challenge: FizzBuzz
 ### Easy Mode
 [Source](src/main/kotlin/FizzBuzz-Easy.kt)
 
-[Run in Browser / Playground](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS44LjIxIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiXG5mdW4gZml6ekJ1enoocjpJbnRQcm9ncmVzc2lvbikge1xuICAgIGZvciAoaSBpbiByKSB7XG4gICAgICAgIGlmIChpIGluIDMgLi5pIHN0ZXAgMyAmJiBpIGluIDUuLmkgc3RlcCA1KSB7XG4gICAgICAgICAgICBwcmludGxuKFwiRml6ekJ1enpcIilcbiAgICAgICAgfVxuICAgICAgICBlbHNlIGlmIChpIGluIDMuLmkgc3RlcCAzKSB7XG4gICAgICAgICAgICBwcmludGxuKFwiRml6elwiKVxuICAgICAgICB9XG4gICAgICAgIGVsc2UgaWYgKGkgaW4gNSAuLmkgc3RlcCA1KXtcbiAgICAgICAgICAgIHByaW50bG4oXCJCdXp6XCIpXG4gICAgICAgIH1cbiAgICAgICAgZWxzZSB7XG4gICAgICAgICAgICBwcmludGxuKFwiJGlcIilcbiAgICAgICAgfVxuICAgIH1cbn1cblxuZnVuIG1haW4oKXtcbiAgICBmaXp6QnV6eigxLi4xMDApXG59In0=)
+[Run in Browser / Playground](https://pl.kotl.in/zRNddM1tY)
+
+<iframe src="https://pl.kotl.in/ZeHkv4TDY?theme=darcula"></iframe>
+
+
+### Intermediate Mode (at least it works...?)
+[Source](src/main/kotlin/FizzBuzz-Intermediate.kt)
+
+[Run in Browser / Playground](https://pl.kotl.in/QZzcWq1Wb)
+
+<iframe src="https://pl.kotl.in/kADhrjEJD?theme=darcula"></iframe>
