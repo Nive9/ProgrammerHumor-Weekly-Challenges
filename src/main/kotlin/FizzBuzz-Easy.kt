@@ -12,7 +12,7 @@ fun fizzBuzz(r:IntProgression) {
         else if (i in 5 ..i step 5){
             println("Buzz")
         }
-        else {
+        else { 
             println("$i")
         }
     }
